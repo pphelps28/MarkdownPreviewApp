@@ -1,0 +1,29 @@
+body {
+    background-color: cornflowerblue;
+    font-size: 2vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#input {
+    text-align: center;
+    vertical-align: middle;
+    width: 15vw;
+    height: 10vh;
+    font-size: 1vw;
+}
+
+#Title {
+    color: rgb(3, 40, 109);
+}
+
+#body1 {
+    font-size: 10vh;
+    width: 20vw;
+    height: 20vh
+}
+
+#emphasis {
+    color: red;
+}
